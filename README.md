@@ -42,7 +42,7 @@ To run the market basket analysis on the Instacart dataset, follow these steps:
 ### Sample Apriori Product Associations
 ![Image Name](product_plot.png)
 ### Sample Apriori Department Associations
-![Image Name](department_plot.png)
+![Image Name](dep_plot.png)
 ### Sample Apriori Aisles Associations
 ![Image Name](aisle_plot.png)
 
