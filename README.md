@@ -38,7 +38,7 @@ To run the market basket analysis on the Instacart dataset, follow these steps:
 6. Interpret and validate the discovered associations to gain meaningful insights and actionable recommendations.
 
 ### Time Complexity
-![Image Name](output_time.png)
+![Image Name](output_time.jpg)
 ### Sample Apriori Product Associations
 ![Image Name](product_plot.png)
 ### Sample Apriori Department Associations
